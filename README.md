@@ -2,6 +2,10 @@
 
 Portfolio profesional de Julian Nicolas Ibague Salamanca, Junior Full Stack Developer.
 
+## Deploy
+
+https://rad-taiyaki-2705ef.netlify.app/
+
 ## Descripcion
 
 Este portafolio presenta proyectos nuevos y relevantes creados para mostrar habilidades en React, JavaScript, CSS, Vite, LocalStorage, Git, GitHub y despliegue con Netlify.
